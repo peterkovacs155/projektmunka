@@ -110,13 +110,4 @@ section {
 }
 
 
-ul {
-    background: white;
-    padding: 10px;
-    border-radius: 5px;
-    list-style-type: square;
-}
 
-li {
-    margin-bottom: 5px;
-}
